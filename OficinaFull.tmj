@@ -389,7 +389,7 @@
         {
          "columns":31,
          "firstgid":1,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/office.png",
+         "image":"tilesets\/office.png",
          "imageheight":672,
          "imagewidth":992,
          "margin":0,
@@ -402,7 +402,7 @@
         {
          "columns":24,
          "firstgid":651,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/conference.png",
+         "image":"tilesets\/conference.png",
          "imageheight":448,
          "imagewidth":768,
          "margin":0,
@@ -415,7 +415,7 @@
         {
          "columns":12,
          "firstgid":651,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/WA_Decoration.png",
+         "image":"tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -428,7 +428,7 @@
         {
          "columns":25,
          "firstgid":743,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/WA_Exterior.png",
+         "image":"tilesets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -441,7 +441,7 @@
         {
          "columns":10,
          "firstgid":1484,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/WA_Miscellaneous.png",
+         "image":"tilesets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -454,7 +454,7 @@
         {
          "columns":12,
          "firstgid":1558,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/WA_Other_Furniture.png",
+         "image":"tilesets\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -467,7 +467,7 @@
         {
          "columns":25,
          "firstgid":1626,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/WA_Room_Builder.png",
+         "image":"tilesets\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -480,7 +480,7 @@
         {
          "columns":13,
          "firstgid":1858,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/WA_Seats.png",
+         "image":"tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -493,7 +493,7 @@
         {
          "columns":10,
          "firstgid":2023,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/WA_Tables.png",
+         "image":"tilesets\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -506,7 +506,7 @@
         {
          "columns":13,
          "firstgid":2246,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -519,7 +519,7 @@
         {
          "columns":6,
          "firstgid":2246,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -532,7 +532,7 @@
         {
          "columns":8,
          "firstgid":2248,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/floortileset.png",
+         "image":"tilesets\/floortileset.png",
          "imageheight":288,
          "imagewidth":256,
          "margin":0,
@@ -545,7 +545,7 @@
         {
          "columns":18,
          "firstgid":2249,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/modern_interiors.png",
+         "image":"tilesets\/modern_interiors.png",
          "imageheight":14368,
          "imagewidth":600,
          "margin":0,
@@ -558,7 +558,7 @@
         {
          "columns":40,
          "firstgid":9174,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/modern_tileset.png",
+         "image":"tilesets\/modern_tileset.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -571,7 +571,7 @@
         {
          "columns":16,
          "firstgid":11465,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -584,7 +584,7 @@
         {
          "columns":16,
          "firstgid":11662,
-         "image":"..\/..\/..\/kit de inicio de mapas maestro\/tilesets\/Prueba canva.png",
+         "image":"tilesets\/Prueba canva.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -597,7 +597,7 @@
         {
          "columns":16,
          "firstgid":11662,
-         "image":"..\/..\/..\/Downloads\/Canva 1.png",
+         "image":"tilesets\/Canva 1.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -610,7 +610,7 @@
         {
          "columns":16,
          "firstgid":12174,
-         "image":"..\/..\/..\/Downloads\/Canva 2.png",
+         "image":"tilesets\/Canva 2.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
