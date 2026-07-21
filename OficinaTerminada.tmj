@@ -882,7 +882,7 @@
         {
          "columns":16,
          "firstgid":15179,
-         "image":"..\/..\/..\/Downloads\/Canva 1.png",
+         "image":"tilesets/Canva 1.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -895,7 +895,7 @@
         {
          "columns":16,
          "firstgid":15691,
-         "image":"..\/..\/..\/Downloads\/Canva 2.png",
+         "image":"tilesets/Canva 2.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
