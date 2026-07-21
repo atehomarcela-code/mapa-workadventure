@@ -390,7 +390,7 @@
         {
          "columns":31,
          "firstgid":1,
-         "image":"tilesets/office.png",
+         "image":"tilesets\/office.png",
          "imageheight":672,
          "imagewidth":992,
          "margin":0,
@@ -403,7 +403,7 @@
         {
          "columns":24,
          "firstgid":652,
-         "image":"tilesets/conference.png",
+         "image":"tilesets\/conference.png",
          "imageheight":448,
          "imagewidth":768,
          "margin":0,
@@ -416,7 +416,7 @@
         {
          "columns":12,
          "firstgid":988,
-         "image":"tilesets/WA_Decoration.png",
+         "image":"tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -429,7 +429,7 @@
         {
          "columns":25,
          "firstgid":1084,
-         "image":"tilesets/WA_Exterior.png",
+         "image":"tilesets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -442,7 +442,7 @@
         {
          "columns":10,
          "firstgid":1934,
-         "image":"tilesets/WA_Miscellaneous.png",
+         "image":"tilesets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -455,7 +455,7 @@
         {
          "columns":12,
          "firstgid":2044,
-         "image":"tilesets/WA_Other_Furniture.png",
+         "image":"tilesets\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -468,7 +468,7 @@
         {
          "columns":25,
          "firstgid":2200,
-         "image":"tilesets/WA_Room_Builder.png",
+         "image":"tilesets\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -481,7 +481,7 @@
         {
          "columns":13,
          "firstgid":3200,
-         "image":"tilesets/WA_Seats.png",
+         "image":"tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -494,7 +494,7 @@
         {
          "columns":10,
          "firstgid":3382,
-         "image":"tilesets/WA_Tables.png",
+         "image":"tilesets\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -507,7 +507,7 @@
         {
          "columns":13,
          "firstgid":3652,
-         "image":"tilesets/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -520,7 +520,7 @@
         {
          "columns":6,
          "firstgid":3925,
-         "image":"tilesets/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -533,7 +533,7 @@
         {
          "columns":8,
          "firstgid":3937,
-         "image":"tilesets/floortileset.png",
+         "image":"tilesets\/floortileset.png",
          "imageheight":288,
          "imagewidth":256,
          "margin":0,
@@ -546,7 +546,7 @@
         {
          "columns":18,
          "firstgid":4009,
-         "image":"tilesets/modern_interiors.png",
+         "image":"tilesets\/modern_interiors.png",
          "imageheight":14368,
          "imagewidth":600,
          "margin":0,
@@ -559,7 +559,7 @@
         {
          "columns":40,
          "firstgid":12091,
-         "image":"tilesets/modern_tileset.png",
+         "image":"tilesets\/modern_tileset.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -572,7 +572,7 @@
         {
          "columns":16,
          "firstgid":14411,
-         "image":"tilesets/tilesets_deviant_milkian_1.png",
+         "image":"tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -585,7 +585,7 @@
         {
          "columns":16,
          "firstgid":14667,
-         "image":"tilesets/Prueba canva.png",
+         "image":"tilesets\/Prueba canva.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -598,7 +598,7 @@
         {
          "columns":16,
          "firstgid":15179,
-         "image":"tilesets/Canva 1.png",
+         "image":"tilesets\/Canva 1.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -611,7 +611,7 @@
         {
          "columns":16,
          "firstgid":15691,
-         "image":"tilesets/Canva 2.png",
+         "image":"tilesets\/Canva 2.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
